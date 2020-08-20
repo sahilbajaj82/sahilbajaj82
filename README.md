@@ -8,10 +8,10 @@
 - 🌱 I’m currently learning ReactJs and TensorFlow
 
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/sahilbajaj82">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbajaj82&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/sahilbajaj82">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilbajaj82&show_icons=true&theme=light&line_height=40" alt="Sahil's github stats"/>
 </a>
 

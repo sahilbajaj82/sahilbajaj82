@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently learning ReactJs and TensorFlow
-
+- 🔭 I’m currently working on GraphQL with ReactJS using Apollo-Boost
 
 <a href="https://github.com/sahilbajaj82">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbajaj82&theme=light&hide_langs_below=1" />
